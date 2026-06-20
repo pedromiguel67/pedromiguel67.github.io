@@ -18,7 +18,7 @@ const tareasLiceo = [
         materia: "Física",
         tipo: "Tarea",
         fecha: "2026-06-26",
-        descripcion: "Completar la guía de ejercicios prácticos del 1 al 10."
+        descripcion: "Completar la guía de s prácticos del 1 al 10."
     },    
     {
         materia: "Biologia",
